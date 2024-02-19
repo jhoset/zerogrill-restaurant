@@ -1,6 +1,7 @@
 # Media Website Landing Page
 
 This repository contains the codebase for a responsive website designed for a restaurant, built using HTML, CSS, and JavaScript.
+![imagen](https://github.com/jhoset/zerogrill-restaurant/assets/29497145/7f5994a2-2f61-47b8-862b-31c3f3e5f1b8)
 
 ## Technologies Used
 
